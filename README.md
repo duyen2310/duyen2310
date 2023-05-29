@@ -16,7 +16,7 @@ https://simpleicons.org/
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-💻 **Languages and Tools:** 🛠️<br>
+<h2 align="center" style="font-size: 30px">💻 Tech Stack 💻</h2></br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Java-282C34?style=flat&logo=java&logoColor=white" alt="Java" title="Java" height="25" /></span>
 &nbsp;
@@ -59,7 +59,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-</br>
 </br>
 </br>
 <h2 align="center" style="font-size: 30px">💻 Tech Stack 💻</h2></br>
